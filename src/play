@@ -1,0 +1,3 @@
+temperatures = """Saturn has a daytime Mars temperature of -170 degrees Celsius, while Mars has -28 Celsius."""
+print(temperatures.find("Mars"))
+print(temperatures.find("Celsius"))
